@@ -6,7 +6,7 @@
     <description>Recent content in Posts on 莉莉安的学习日志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2020 12:15:42 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://lillian938.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,15 +18,6 @@
       
       <guid>https://lillian938.github.io/post/even-preview/</guid>
       <description>Based on MarkdownPreview test.md. Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs 1 2 3 4 This is a paragraph. I am still part of the paragraph. New paragraph. This is a paragraph. I am still part of the paragraph.</description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://lillian938.github.io/post/2/</link>
-      <pubDate>Tue, 18 Aug 2020 12:15:42 +0800</pubDate>
-      
-      <guid>https://lillian938.github.io/post/2/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -58,12 +49,12 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>[中文] 《长恨歌》</title>
+      <title>[中文] 对未来的几点规划</title>
       <link>https://lillian938.github.io/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
       <guid>https://lillian938.github.io/post/chinese-preview/</guid>
-      <description>《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。 第一段：贵妃受宠爱 汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。 天生丽质难</description>
+      <description>class=&amp;quot;music163&amp;quot; frameborder=&amp;quot;no&amp;quot; border=&amp;quot;0&amp;quot; marginwidth=&amp;quot;0&amp;quot; marginheight=&amp;quot;0&amp;quot; width=&amp;quot;330&amp;quot; height=&amp;quot;86&amp;quot; src=&amp;quot;//music.163.com/outchain/player?type=2&amp;amp;id=27483202&amp;amp;auto=0&amp;amp;height=66&amp;quot;&amp;gt; &amp;lt;/iframe&amp;gt; 第一段：贵妃受宠爱 汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。 天生丽质难自弃，一朝选在君王侧。回眸一笑</description>
     </item>
     
     <item>
