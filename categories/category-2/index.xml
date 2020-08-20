@@ -6,18 +6,18 @@
     <description>Recent content in category-2 on 莉莉安的学习日志</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://lillian938.github.io/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Theme preview</title>
-      <link>https://lillian938.github.io/post/even-preview/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      <title>Md教程</title>
+      <link>https://lillian938.github.io/post/md%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://lillian938.github.io/post/even-preview/</guid>
-      <description>Based on MarkdownPreview test.md. Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs 1 2 3 4 This is a paragraph. I am still part of the paragraph. New paragraph. This is a paragraph. I am still part of the paragraph.</description>
+      <guid>https://lillian938.github.io/post/md%E6%95%99%E7%A8%8B/</guid>
+      <description>Based on MarkdownPreview test.md. Markdown 字体&amp;amp;颜色&amp;amp;字号 1 &amp;lt;font face=&amp;#34;等线&amp;#34; color= #34495e size=4&amp;gt;我是莉莉安，一个爱好广泛的不靠谱女青</description>
     </item>
     
   </channel>
