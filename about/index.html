@@ -122,7 +122,7 @@
         <div id="content" class="content">
           <article class="post">
   <div class="post-content">
-    <h2 id="font-face等线-color--efa757你好呀我是莉莉安font"><strong><font face="等线" color=  #efa757>你好呀，我是莉莉安</font></strong></h2>
+    <h2 id="img-src头像jpg-altlocal-picture-titlelocal-picture-stylezoom-15-font-face等线-color--efa757你好呀我是莉莉安font"><img src="/头像.jpg" alt="local picture" title="Local Picture" style="zoom: 15%;" /><strong><font face="等线" color=  #efa757>你好呀，我是莉莉安</font></strong></h2>
 <p><strong><font face="等线" color= #34495e size=3>欢迎你来到我的秘密基地(<em>^▽^</em>)！<br><br>我是莉莉安，一个爱好广泛的不靠谱女青年。终极目标是成为一个快乐的小废物。<br><br></font></strong></p>
 <h2 id="font-face等线-color--efa757关于博客font"><strong><font face="等线" color=  #efa757>关于博客</font></strong></h2>
 <p><strong><font face="等线" color= #34495e size=3>这个博客是毫无编程基础的我参考了各路大神的教程，并在程序员大佬的指导下用hugo语言和GitHub搭建起来的，前前后后花了大概三天的时间hhhh。<br><br>顺便感谢Github上提供此主题的好心人~<br><br>为什么想要搭建这样一个博客呢？<br><br>可能是觉得想写点什么又不想被太多的人看到吧。QQ空间啊、微博啊、微信公众号啊，总觉得更多是写给别人看的。<br><br>近日与高中老友重聚，发现大家都在不断向前奔跑。<br><br>反观自己已经很久没有持续学习和深度思考了。<br><br>为了不继续掉队，要赶紧充电学习，顺便记录下自己的生活~<br><br>Notes栏目是平时学习和读书笔记，Ideas栏目则记录了平日的思考感悟。<br><br>希望可以把这件事坚持下来！</font></strong></p>
@@ -194,6 +194,13 @@
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "en".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
 
 
 

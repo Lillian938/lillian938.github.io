@@ -49,7 +49,7 @@
 <meta itemprop="description" content="Based on MarkdownPreview test.md. Markdown 字体&amp;颜色&amp;字号 1 &lt;font face=&#34;等线&#34; color= #34495e size=4&gt;我是莉莉安，一个爱好广泛的不靠谱女青">
 <meta itemprop="datePublished" content="2020-08-19T00:00:00+08:00" />
 <meta itemprop="dateModified" content="2020-08-19T00:00:00+08:00" />
-<meta itemprop="wordCount" content="3538">
+<meta itemprop="wordCount" content="3570">
 
 
 
@@ -132,7 +132,7 @@
             <a href="/categories/category-2/"> category-2 </a>
             <a href="/categories/category-3/"> category-3 </a>
             </div>
-          <span class="more-meta"> 3538 words </span>
+          <span class="more-meta"> 3570 words </span>
           <span class="more-meta"> 8 mins read </span>
         <span id="busuanzi_container_page_pv" class="more-meta"> <span id="busuanzi_value_page_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> times read </span>
       </div>
@@ -166,7 +166,11 @@
         <li><a href="#footnote">Footnote</a></li>
         <li><a href="#inline">Inline</a></li>
         <li><a href="#网易云音乐">网易云音乐</a></li>
-        <li><a href="#links">Links</a></li>
+        <li><a href="#links">Links</a>
+          <ul>
+            <li></li>
+          </ul>
+        </li>
         <li><a href="#abbreviation">Abbreviation</a></li>
         <li><a href="#unordered-list">Unordered List</a></li>
         <li><a href="#ordered-list">Ordered List</a></li>
@@ -390,6 +394,35 @@ __~~*strike italic 1 bold 2*~~__ and *~~__strike italic 1 bold 2__~~*
       src="//music.163.com/outchain/player?type=2&id=27483202&auto=0&height=66">
     </iframe>
 <h2 id="links">Links</h2>
+<blockquote>
+<p>各种连接</p>
+</blockquote>
+<h4 id="web-image">Web image</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">![Web Picture](https://count.getloli.com/get/@even-preview?theme=konachan &#34;Web Picture&#34;)
+</code></pre></td></tr></table>
+</div>
+</div><p><img src="https://count.getloli.com/get/@even-preview?theme=konachan" alt="Web Picture" title="Web Picture"></p>
+<h4 id="local-image">Local image</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">![图片名称](/头像.jpg)  # 需将该图片放在该md文档所在目录，相对引用(/xxx)
+&lt;img src=&#34;/头像.jpg&#34; alt=&#34;local picture&#34; title=&#34;Local Picture&#34; style=&#34;zoom: 15%;&#34; /&gt;
+</code></pre></td></tr></table>
+</div>
+</div><blockquote>
+<p>zoom：缩放比例</p>
+</blockquote>
+<p><img src="/头像.jpg" alt="local picture" title="Local Picture" style="zoom: 15%;" /></p>
+<h4 id="websiteemail-address">Website&amp;Email address</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -405,21 +438,9 @@ __~~*strike italic 1 bold 2*~~__ and *~~__strike italic 1 bold 2__~~*
 </span><span class="lnt">11
 </span><span class="lnt">12
 </span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">Web image
-![Web Picture](https://count.getloli.com/get/@even-preview?theme=konachan &#34;Web Picture&#34;)
-
-Local image
-![Local Picture](logo-revolunet-carre.jpg &#34;Local Picture&#34;)
-
-contact@revolunet.com
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">contact@revolunet.com
 
 @revolunet
 
@@ -434,12 +455,7 @@ This is a link &#34;https://github.com/revolunet/sublimetext-markdown-preview/&#
 With this link (https://github.com/revolunet/sublimetext-markdown-preview/), it still works.
 </code></pre></td></tr></table>
 </div>
-</div><p>Web image
-<img src="https://count.getloli.com/get/@even-preview?theme=konachan" alt="Web Picture" title="Web Picture"></p>
-<p>Local image
-<img src="/apple-touch-icon.png" alt="Local Picture" title="Local Picture"></p>
-<p>![Local Picture](D:\粘土手作\B款01\002【泥彩堂】国外new技艺丛书 Disney Characters - Polymer Clay\disney_04_minnie1.jpg)</p>
-<p><a href="http://www.google.com">www.google.com</a></p>
+</div><p><a href="http://www.google.com">www.google.com</a></p>
 <p><a href="mailto:contact@revolunet.com">contact@revolunet.com</a></p>
 <p>@revolunet</p>
 <p>Issue #1</p>
@@ -1467,6 +1483,13 @@ $$ E(\mathbf{v}, \mathbf{h}) = -\sum_{i,j}w_{ij}v_i h_j - \sum_i b_i v_i - \sum_
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "en".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
 
 
 
