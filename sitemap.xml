@@ -17,7 +17,35 @@
   
   <url>
     <loc>https://lillian938.github.io/categories/</loc>
-    <lastmod>2020-08-19T09:17:52+08:00</lastmod>
+    <lastmod>2020-08-21T09:40:04+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lillian938.github.io/post/latex%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-08-21T09:40:04+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lillian938.github.io/post/</loc>
+    <lastmod>2020-08-21T09:40:04+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lillian938.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-08-21T09:40:04+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lillian938.github.io/</loc>
+    <lastmod>2020-08-21T09:40:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,13 +59,6 @@
   
   <url>
     <loc>https://lillian938.github.io/ideas/%E5%AF%B9%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%87%A0%E7%82%B9%E8%A7%84%E5%88%92/</loc>
-    <lastmod>2020-08-19T09:17:52+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lillian938.github.io/</loc>
     <lastmod>2020-08-19T09:17:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -59,20 +80,6 @@
   
   <url>
     <loc>https://lillian938.github.io/categories/category-3/</loc>
-    <lastmod>2020-08-19T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lillian938.github.io/post/</loc>
-    <lastmod>2020-08-19T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lillian938.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-08-19T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
